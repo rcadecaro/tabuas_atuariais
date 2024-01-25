@@ -1,6 +1,7 @@
 from typing import Literal, Union
 import pandas as pd
 
+
 class ActuarialTable:
     def __init__(
             self,
